@@ -13,6 +13,8 @@
 # Last update: 2020-12-17                                                      #
 #                                                                              #
 ################################################################################
+#seobility
+User-agent: Seobility
 # so.com chinese search engine
 User-agent: 360Spider
 User-agent: 360Spider-Image
